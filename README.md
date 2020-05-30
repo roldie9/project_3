@@ -23,7 +23,7 @@ DevMatch is a great app for inspiring and experienced developers to connect and 
 
 ## Deployed App
 
-Go to [DevMatch](http://afternoon-springs-32629.herokuapp.com/)!
+Go to [DevMatch](https://afternoon-springs-32629.herokuapp.com/)!
 
         
 ## Table of Contents
